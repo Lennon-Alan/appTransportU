@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base de Android (requeridos) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores principales del proyecto -->
+    <color name="primary_dark">#2c3e50</color>
+    <color name="background_light">#f8f9fa</color>
+    <color name="text_secondary">#6c757d</color>
+
+    <!-- Colores para botones -->
+    <color name="success_green">#28a745</color>
+    <color name="success_green_ripple">#1e7e34</color>
+    <color name="error_red">#dc3545</color>
+    <color name="error_red_ripple">#c82333</color>
+
+    <!-- Colores para login -->
+    <color name="primary_color">#3498db</color>
+    <color name="primary_color_dark">#2980b9</color>
+</resources>
